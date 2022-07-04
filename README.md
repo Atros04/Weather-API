@@ -14,3 +14,5 @@ We have internally tested the system with a planned vacation in Japan. Our syste
 
 The maps also list hotels and weather conditions of the city for our users to get real-time feedback of the city.
 ![Internal Testing](vacation_itinerary/WeatherPy_travel_map_markers.png)
+
+As we look to have more features added with the beta feedback, we want to have a second testing period ready.
